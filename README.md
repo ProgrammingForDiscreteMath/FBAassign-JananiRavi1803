@@ -14,3 +14,4 @@
 ## (d) For the model, determine the essential genes in a medium containing glucose in constrained amounts and oxygen in unconstrained amounts.   
 ## (e) For the model, determine the set of synthetic lethal genes in a medium containing glucose in constrained amounts and oxygen in unconstrained amounts.    
 
+## You may submit two separate Jupyter notebooks for above 2 questions.
